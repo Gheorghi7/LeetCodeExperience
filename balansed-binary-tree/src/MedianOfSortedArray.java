@@ -19,7 +19,7 @@ public class MedianOfSortedArray {
             median=(array[array.length/2] + array[array.length/2-1])/2.0;
         }else{
             median = array[array.length/2];
-        }   
+        }
 
         return median;
     }

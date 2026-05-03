@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BynaryTreeInordertraversal/BynaryTreeInordertraversal.iml" filepath="$PROJECT_DIR$/BynaryTreeInordertraversal/BynaryTreeInordertraversal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConcatenationOfArray/ConcatenationOfArray.iml" filepath="$PROJECT_DIR$/ConcatenationOfArray/ConcatenationOfArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/IAmAnEngineerISolveProblem.iml" filepath="$PROJECT_DIR$/.idea/IAmAnEngineerISolveProblem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/balansed-binary-tree/balansed-binary-tree.iml" filepath="$PROJECT_DIR$/balansed-binary-tree/balansed-binary-tree.iml" />
+    </modules>
+  </component>
+</project>
